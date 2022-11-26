@@ -1,0 +1,3 @@
+https://win-eh05m9oggrv/officescan/download/server.ini
+
+['https:', '', 'win-eh05m9oggrv', 'officescan', 'download', 'server.ini']
